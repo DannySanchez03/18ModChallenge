@@ -1,6 +1,6 @@
 # 18ModChallenge Thoughts app on Insomnia
 Module 18 Challenge
-# Online thoguhts app
+# Online thoughts app
 
 github: https://github.com/DannySanchez03/18ModChallenge
 
