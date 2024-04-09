@@ -1,0 +1,14 @@
+{
+  "name": "Module-18-Challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^7.0.2"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node utils/seed.js"
+  }
+}
