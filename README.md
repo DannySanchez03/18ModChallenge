@@ -1,12 +1,12 @@
-# 18ModChallenge Thoughts app on Insomnia
-Module 18 Challenge
-# Online thoughts app
+# Thoughts app on Insomnia
 
-github: https://github.com/DannySanchez03/18ModChallenge
+16th Challenge
+
+created: [here](https://github.com/DannySanchez03/Thoughts)
 
 ## Description
 
-In this Module 18 Challenge we were told to use mongoDb or mongoose and express to make a app that can create a user and allow them to share thoughts to anyone and allow anyone to react to those thoughts and add and remove friends, we were told to check its functionality using insomnia to test all the routes correctly and recieve the format back correctly
+In this 16th Challenge I was told to use mongoDb or mongoose and express to make a app that can create a user and allow them to share thoughts to anyone and allow anyone to react to those thoughts and add and remove friends, I had to make sure its functionality worked using insomnia to test all the routes correctly and recieve the format back correctly.
 
 ## Installation
 [[Watch the Video]](https://drive.google.com/file/d/1GdtoqLP4LyCLK0OL6M-yC4F2zHERglly/view)
